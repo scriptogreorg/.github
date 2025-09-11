@@ -1,5 +1,12 @@
-# Welcome to Scriptogre 👾
+# Întreabă Legea
 
-We are the **Home of Tech and Awesome Projects**. Our mission is to build and share innovative solutions in software development, cloud automation, and DevOps. From cutting-edge tools to open-source projects, we aim to empower developers and tech enthusiasts alike. 
+Ask questions about Romanian law and get answers with source citations.
 
-Explore, contribute, and let’s build something awesome together!
+Built by three developers who understand the potential of well-integrated LLM systems that aren't just ChatGPT wrappers.
+
+## Features
+
+- Natural language search through Romanian legal texts
+- Chat interface for Q&A
+- Mobile web app
+- Source citations for all responses
